@@ -1,2 +1,2 @@
 # University-POO-java-projects
-Reposotory for save my univeristy java projects
+Reposotory to save my univeristy java projects
